@@ -1,0 +1,62 @@
+08/08/2019 02:16:25 PM - LoginPage - INFO: Element found with locator: /html/body/div[2]/div/div/button and  locatorType: xpath
+08/08/2019 02:16:25 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[2]/div/div/button locatorType: xpath
+08/08/2019 02:16:27 PM - LoginPage - INFO: Element found with locator: //*[@id='container']/div/div[2]/div/ul/li[1]/span and  locatorType: xpath
+08/08/2019 02:16:34 PM - LoginPage - INFO: Element found with locator: Pixel 3a | 3a XL and  locatorType: link
+08/08/2019 02:16:35 PM - LoginPage - INFO: Clicked on element with locator: Pixel 3a | 3a XL locatorType: link
+08/08/2019 02:16:35 PM - LoginPage - INFO: Element found with locator: (//div/img[@class='_1Nyybr  _30XEf0'])[1] and  locatorType: xpath
+08/08/2019 02:16:35 PM - LoginPage - INFO: Clicked on element with locator: (//div/img[@class='_1Nyybr  _30XEf0'])[1] locatorType: xpath
+08/08/2019 02:16:37 PM - LoginPage - INFO: Element found with locator: //*[@id='container']/div/div[3]/div[2]/div[1]/div[1]/div[2]/div/ul/li[1]/button and  locatorType: xpath
+08/08/2019 02:16:38 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='container']/div/div[3]/div[2]/div[1]/div[1]/div[2]/div/ul/li[1]/button locatorType: xpath
+08/08/2019 02:16:40 PM - LoginPage - INFO: Element found with locator: //div[@class='hJYgKM']/span and  locatorType: xpath
+08/08/2019 02:16:40 PM - LoginPage - INFO: Getting text on element :: 
+08/08/2019 02:16:40 PM - LoginPage - INFO: Element found with locator: //*[@id='container']/div/div[2]/div[2]/div/div[1]/div/div[2]/div/div[2]/div[1]/div/button[2] and  locatorType: xpath
+08/08/2019 02:16:40 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='container']/div/div[2]/div[2]/div/div[1]/div/div[2]/div/div[2]/div[1]/div/button[2] locatorType: xpath
+08/08/2019 02:16:43 PM - LoginPage - INFO: Element found with locator: twotabsearchtextbox and  locatorType: id
+08/08/2019 02:16:44 PM - LoginPage - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+08/08/2019 02:16:44 PM - LoginPage - INFO: Element found with locator: nav-input and  locatorType: class
+08/08/2019 02:16:46 PM - LoginPage - INFO: Clicked on element with locator: nav-input locatorType: class
+08/08/2019 02:16:46 PM - LoginPage - INFO: Element found with locator: Apple iPhone 7 (32GB) - Black and  locatorType: link
+08/08/2019 02:16:46 PM - LoginPage - INFO: Clicked on element with locator: Apple iPhone 7 (32GB) - Black locatorType: link
+08/08/2019 02:16:48 PM - LoginPage - INFO: Element found with locator: priceblock_ourprice and  locatorType: id
+08/08/2019 02:16:48 PM - LoginPage - INFO: Getting text on element :: 
+08/08/2019 02:16:53 PM - LoginPage - INFO: Element not found with locator: /html/body/div[2]/div/div/button and locatorType: xpath
+08/08/2019 02:16:53 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[2]/div/div/button locatorType: xpath
+08/08/2019 02:16:53 PM - LoginPage - INFO: Element found with locator: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input and  locatorType: xpath
+08/08/2019 02:16:53 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input locatorType: xpath
+08/08/2019 02:16:53 PM - LoginPage - INFO: Element found with locator: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/button and  locatorType: xpath
+08/08/2019 02:16:53 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/button locatorType: xpath
+08/08/2019 02:16:54 PM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Apple iPhone 7 (Black, 32 GB)')] and  locatorType: xpath
+08/08/2019 02:16:54 PM - LoginPage - INFO: Clicked on element with locator: //div[contains(text(),'Apple iPhone 7 (Black, 32 GB)')] locatorType: xpath
+08/08/2019 02:16:56 PM - LoginPage - INFO: Element found with locator: //*[@id='container']/div/div[3]/div[2]/div[1]/div[2]/div[2]/div/div[4]/div[1]/div/div[1] and  locatorType: xpath
+08/08/2019 02:16:56 PM - LoginPage - INFO: Getting text on element :: 
+08/08/2019 02:17:04 PM - LoginPage - INFO: Element not found with locator: /html/body/div[2]/div/div/button and locatorType: xpath
+08/08/2019 02:17:04 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[2]/div/div/button locatorType: xpath
+08/08/2019 02:17:06 PM - LoginPage - INFO: Element found with locator: //*[@id='container']/div/div[2]/div/ul/li[1]/span and  locatorType: xpath
+08/08/2019 02:17:13 PM - LoginPage - INFO: Element found with locator: Pixel 3a | 3a XL and  locatorType: link
+08/08/2019 02:17:13 PM - LoginPage - INFO: Clicked on element with locator: Pixel 3a | 3a XL locatorType: link
+08/08/2019 02:17:16 PM - LoginPage - INFO: Element not found with locator: (//div/img[@class='_1Nyybr  _30XEf0'])[1] and locatorType: xpath
+08/08/2019 02:17:16 PM - LoginPage - INFO: Cannot click on the element with locator: (//div/img[@class='_1Nyybr  _30XEf0'])[1] locatorType: xpath
+08/08/2019 02:17:21 PM - LoginPage - INFO: Element not found with locator: //*[@id='container']/div/div[3]/div[2]/div[1]/div[1]/div[2]/div/ul/li[1]/button and locatorType: xpath
+08/08/2019 02:17:21 PM - LoginPage - INFO: Cannot click on the element with locator: //*[@id='container']/div/div[3]/div[2]/div[1]/div[1]/div[2]/div/ul/li[1]/button locatorType: xpath
+08/08/2019 02:17:26 PM - LoginPage - INFO: Element not found with locator: //div[@class='hJYgKM']/span and locatorType: xpath
+08/08/2019 02:17:26 PM - LoginPage - ERROR: Failed to get text on element 
+08/08/2019 02:17:29 PM - LoginPage - INFO: Element not found with locator: //*[@id='container']/div/div[2]/div[2]/div/div[1]/div/div[2]/div/div[2]/div[1]/div/button[2] and locatorType: xpath
+08/08/2019 02:17:29 PM - LoginPage - INFO: Cannot click on the element with locator: //*[@id='container']/div/div[2]/div[2]/div/div[1]/div/div[2]/div/div[2]/div[1]/div/button[2] locatorType: xpath
+08/08/2019 02:17:32 PM - LoginPage - INFO: Element found with locator: twotabsearchtextbox and  locatorType: id
+08/08/2019 02:17:32 PM - LoginPage - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+08/08/2019 02:17:32 PM - LoginPage - INFO: Element found with locator: nav-input and  locatorType: class
+08/08/2019 02:17:36 PM - LoginPage - INFO: Clicked on element with locator: nav-input locatorType: class
+08/08/2019 02:17:36 PM - LoginPage - INFO: Element found with locator: Apple iPhone 7 (32GB) - Black and  locatorType: link
+08/08/2019 02:17:36 PM - LoginPage - INFO: Clicked on element with locator: Apple iPhone 7 (32GB) - Black locatorType: link
+08/08/2019 02:17:38 PM - LoginPage - INFO: Element found with locator: priceblock_ourprice and  locatorType: id
+08/08/2019 02:17:39 PM - LoginPage - INFO: Getting text on element :: 
+08/08/2019 02:17:45 PM - LoginPage - INFO: Element not found with locator: /html/body/div[2]/div/div/button and locatorType: xpath
+08/08/2019 02:17:45 PM - LoginPage - INFO: Cannot click on the element with locator: /html/body/div[2]/div/div/button locatorType: xpath
+08/08/2019 02:17:45 PM - LoginPage - INFO: Element found with locator: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input and  locatorType: xpath
+08/08/2019 02:17:45 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input locatorType: xpath
+08/08/2019 02:17:45 PM - LoginPage - INFO: Element found with locator: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/button and  locatorType: xpath
+08/08/2019 02:17:45 PM - LoginPage - INFO: Clicked on element with locator: //*[@id='container']/div/div[1]/div[1]/div[2]/div[2]/form/div/button locatorType: xpath
+08/08/2019 02:17:46 PM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Apple iPhone 7 (Black, 32 GB)')] and  locatorType: xpath
+08/08/2019 02:17:46 PM - LoginPage - INFO: Clicked on element with locator: //div[contains(text(),'Apple iPhone 7 (Black, 32 GB)')] locatorType: xpath
+08/08/2019 02:17:47 PM - LoginPage - INFO: Element found with locator: //*[@id='container']/div/div[3]/div[2]/div[1]/div[2]/div[2]/div/div[4]/div[1]/div/div[1] and  locatorType: xpath
+08/08/2019 02:17:47 PM - LoginPage - INFO: Getting text on element :: 
